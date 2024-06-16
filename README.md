@@ -8,7 +8,7 @@ Methods: Deposit, Withdraw, GetBalance, GetTransactions.
 
 Bank - Manages a collection of accounts.
 Fields: accounts.
-Methods: AddAccount, RetrieveAccount, GetAccounts.]
+Methods: AddAccount, RetrieveAccount, GetAccounts.
 
 AtmApplication - Handles user interaction.
 Fields: bank, selectedAccount.
@@ -28,7 +28,7 @@ Display Transactions: View transaction history.
 Exit: Confirm before exiting and display a thank you message.
 
 
-Setup Instructions]
+Setup Instructions
 
 Prerequisites
 Visual Studio or any C# compatible IDE.
@@ -38,3 +38,4 @@ Installation
 Clone the repository:
 Copy code
 git clone https://github.com/me-mohanKK/MyATMApplication.git
+Video Link - https://drive.google.com/file/d/1fjOU9zx4AJze4qZx7wcPPuH3YCMllmPC/view?usp=drive_link
